@@ -14,3 +14,9 @@ while cont <= len(palavra)- 1:
     letra = palavra[cont]
     print(f'{letra}')
     cont += 1
+
+lista = []
+
+lista.append('teste')
+
+print(lista)
